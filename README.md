@@ -3,6 +3,8 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
             
 ## 2019
 
+### December
+This was edited by Julian
 ### November
 
 + 14 - 16 [LA CoMotion](https://www.lacomotion.com/) _Los Angeles, CA, USA_
@@ -244,3 +246,4 @@ Ongoing list of civic tech or gov tech events. Includes previous and past events
 
 ### April
 + [Do Good Data](http://www.dogooddata.com/home) _Chicago, IL - USA_
+
